@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pablo Lobato</h1>
-<h3 align="center">Computer Engineering Student | Passionate about Software Development & AI</h3>
+<h3 align="center">Computer Engineer | Passionate about Software Development & AI</h3>
           
 
 ## 🚀 About Me  
 
-- 🎓 I’m currently studying **Computer Engineering at Universidad de Santiago de Compostela**  
-- 🔭 I’m working on [the interpreter of my custom programming language](https://github.com/pablolobat0/interpreter)  
+- 💼 I’m currently working at Plexus Tech as AI Engineer  
 - 🌱 Learning **AI, Rust, and software development techniques**  
 - 💬 Ask me about **AI, Sofware Development**  
 - 📫 How to reach me: **plobatorey@gmail.com**  
@@ -43,8 +42,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablolobat0&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-## 🎯 Fun Fact  
-> "Talk is cheap. Show me the code." – Linus Torvalds
