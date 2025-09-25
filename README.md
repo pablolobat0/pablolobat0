@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pablo Lobato</h1>
-<h3 align="center">Computer Engineer | Passionate about Software Development & AI</h3>
+<h3 align="center">Machine Learning Engineer | AI Enthusiast </h3>
           
 
 ## 🚀 About Me  
 
-- 💼 I’m currently working at Plexus Tech as AI Engineer  
-- 🌱 Learning **AI, Rust, and software development techniques**  
-- 💬 Ask me about **AI, Sofware Development**  
+- 💼 I’m currently working at Plexus Tech as **Machine Learning Engineer**
+- 🔭 Building projects with **LLMs, RAG, and multi-agent systems** 
+- 🌱 Learning **Machine Learning, MLOps**  
+- 💬 Ask me about **LLMs, NLP, Chatbots, RAG pipelines, and AI tooling**  
 - 📫 How to reach me: **plobatorey@gmail.com**  
 
 ---
@@ -24,8 +25,9 @@
 ## 🛠️ Languages & Tools  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,py,java,rust,js,nodejs,docker,postgresql,linux,bash,git,github,neovim" />
+<img src="https://skillicons.dev/icons?i=py,java,c,rust,js,nodejs,docker,pytorch,fastapi,postgresql,mongodb,linux,bash,git,github,neovim" />
 </p>
+
 
 ---
 
