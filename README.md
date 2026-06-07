@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pablo Lobato</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast </h3>
+<h3 align="center">AI Engineer | Computer Engineer </h3>
           
 
 ## 🚀 About Me  
 
-- 💼 I’m currently working at Plexus Tech as **Machine Learning Engineer**
+- 💼 I’m currently working at Plexus Tech as **AI Engineer**
 - 🔭 Building projects with **LLMs, RAG, and multi-agent systems** 
 - 🌱 Learning **Machine Learning, MLOps**  
 - 💬 Ask me about **LLMs, NLP, Chatbots, RAG pipelines, and AI tooling**  
